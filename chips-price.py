@@ -1,6 +1,5 @@
 # Import requests, which we will use to get the raw HTML
 import requests
-import wget
 # Import BeautifulSoup 4, which we will use to parse the HTML
 from bs4 import BeautifulSoup
 # Import csv module for writing data
@@ -17,17 +16,6 @@ r = requests.get(url)
 # Parse HTML
 html = r.content
 soup = BeautifulSoup(html, 'html.parser')
-filename = wget.download(url)
-soup = BeautifulSoup(filename, 'html.parser')
-
-# Parse HTML
-# with open("chips.html", "r", encoding="utf-8") as file:
-with open("chips.html", "r", encoding="utf-8") as file:
-    # Create BeautifulSoup object from HTML
-    soup = BeautifulSoup(file, 'html.parser')
-
-# Close HTML
-file.close()
 
 brand = soup.find_all("span", "js-product-entry-brand")
 
@@ -35,6 +23,8 @@ size = soup.find_all("span", "js-product-entry-size-detail")
 unit_price = soup.find_all("span", "sale-qty")
 
 length = len(name)
+
+# div row row-currently-showing = contains total items in a <p>
 
 # Open CSV for writing
 with open('chips.csv', 'w', newline='') as csvFile:
