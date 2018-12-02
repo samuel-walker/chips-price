@@ -17,3 +17,11 @@ soup = BeautifulSoup(filename, 'html.parser')
 with open("chips.html", "r", encoding="utf-8") as file:
     # Create BeautifulSoup object from HTML
     soup = BeautifulSoup(file, 'html.parser')
+
+
+for i in range(length):
+    writer.writerow([brand[i].string[:-1],
+                    name[i].string,
+                    int(size[i].string[1:-3]),
+                    float(int(size[i].string[1:-3])/100*float(unit_price[i].contents[2].strip()[1:5])),
+                    float(unit_price[i].contents[2].strip()[1:5])]
