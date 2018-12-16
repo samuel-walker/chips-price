@@ -105,7 +105,7 @@ y = []
 scale = []
 label = []
 
-py.sign_in('samuel-walker', 'Y7wwYrtAalINUBMfsgLR')
+py.sign_in('samuel-walker', 'ENTER YOUR OWN')
 
 with open('chips - sam.csv', 'r') as csvFile:
     plots = csv.reader(csvFile, delimiter=',')
