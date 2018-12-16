@@ -1,3 +1,5 @@
+# Incomplete
+
 import time
 from selenium import webdriver
 
@@ -40,13 +42,17 @@ def find_link_text(text):
         print('Was not able to find element')
 
 driver = webdriver.Chrome('D:\\Dropbox\\Coding\\chromedriver.exe')  # Optional argument, if not specified will search path.
-driver.get('https://www.realcanadiansuperstore.ca');
+# driver.get('https://www.realcanadiansuperstore.ca');
+# time.sleep(6) # Let the user actually see something!
+
+driver.get("https://www.realcanadiansuperstore.ca/Food/Pantry/Chips-%26-Salty-Snacks/Potato-Chips/plp/RCSS001008010001?filters=&sort=popularity")
 time.sleep(6) # Let the user actually see something!
 
 # Select province
 find_css('[data-province-code="CA-BC"]')
 # Close modal
-find_iframe_css('#closeButton')
+# find_iframe_css('#closeButton')
+find_iframe_css('.icon-ui-glyph-1_circle-remove::before')
 # Select food category
 find_css('[data-auid="food"] button')
 # Select pantry category

@@ -1,55 +1,282 @@
 brand,name,size(g),price,unit_price
-Miss Vickies,"Kettle Cooked Potato Chips, Sea Salt & Malt Vinegar",300,4.58,13.74
-Terra,Exotic Vegetable Chips Plantains Sea Salt,141,3.98,5.6118
-Old Dutch,"Crunchys, Nacho Cheese",290,3.28,9.511999999999999
-President's Choice,Thick Cut Aged Cheddar And Onion Flavour Rippled Potato Chips,200,1.68,3.36
-No Name Club Pack,Cheese Twists Club Pack,700,3.98,27.86
-Solar Raw Food,"Organic Kale Chips, Spicy Lime Curry",100,7.98,7.98
-Doritos,"Tortilla Chips, Bold BBQ",255,3.18,8.109
-No Name,"Potato Chips, Sour Cream & Onion",750,4.98,37.35
-Sunchips,"Chips, Tempura Shrimp",100,1.48,1.48
-Doritos,"Multigrain Snacks, Harvest Cheddar",225,3.28,7.38
-Old Dutch,"Tortilla Chips, Nacho Cheese",400,4.58,18.32
-Haldiram,"Dutch Crunch Kettle Chips, Sea Salt & Malt Vinegar",200,3.28,6.56
-Nong Shim,Murukku,200,2.78,5.56
-Pringles,Onion Rings,50,1.28,0.64
-Lay's,Snack Stacks Original,228,5.98,13.6344
-Kettle,"Wavy Chips, Sour Cream & Cheese",240,2.47,5.928
-Miss Vickies,"Potato Chips, Sea Salt",220,3.28,7.216
-President's Choice,"Kettle Cooked Potato Chips, Sea Salt & Malt Vinegar",66,1.48,0.9768
-Old Dutch,"Thick Cut Potato Chips, Sour Cream & Dill",200,1.68,3.36
-Tostitos,"Potato Chips, Ketchup",220,2.88,6.336
-T&T,"Tortilla Chips, Low Sodium",295,2.5,7.375
-Hawkins,Korean Roasted Seaweed Laver,15,1.78,0.267
-No Name,Cheezies,210,3.18,6.678000000000001
-Kettle,"Potato Chips, Sour Cream 'n Bacon",220,2.5,5.5
-PC  Club Pack,"Potato Chips, Regular",200,1.18,2.36
-Old Dutch,"Potato Chips, Maple Bacon",220,3.28,7.216
-Christie,Kettle Chips,907,5.98,54.238600000000005
-Humpty Dumpty,"Potato Chips, BBQ",255,3.48,8.873999999999999
-Old Dutch,"Bits & Bites, Original",175,2.27,3.9725
-Doritos,Original Party Mix,280,3.28,9.184
-Kettle,Restaurante Multigrain Bites,290,2.47,7.163
-Lay's,"Tortilla Chips, Variety",504,6.98,35.1792
-Pringles,"Chips, Pepperoncini",220,3.28,7.216
-Tostitos,Wavy Lightly Salted Chips,255,2.47,6.2985
-Doritos,Reduced Fat Original,139,1.88,2.6131999999999995
-Old Dutch,"Tortilla Chips, Hint of Jalape�o",275,2.5,6.875
-Old Dutch,Ketchup Chips,230,3.18,7.314
-Munchies,Blast O Butter Ultimate Theatre Style Butter Microwave Pop Corn,594,3.98,23.6412
-President's Choice,"Crunchy Cheese Flavoured Snacks, Cheese",310,2.97,9.207
-Pringles,"Potato Chips, Regular",220,2.88,6.336
-Fritos,"Crunchys, Extreme Cheddar",290,3.28,9.511999999999999
-Tostitos,"Snacks, Snack Mix Original",1100,7.28,80.08
-Pringles,Hickory Smoke Flavour Roasted Almonds,200,4.48,8.96
-Old Dutch,"Potato Chips, Regular",220,2.5,5.5
-President's Choice,"Crisps, Sweet & Sour",156,2.38,3.7128
-No Name,"Corn Snacks, Original",370,3.78,13.986
-Pringles,Takis Fajitas Chips,280,3.68,10.304
-Que Pasa,"Tortilla Chips, Multigrain",270,2.5,6.75
-President's Choice,Sour Cream & Onion Flavour Potato Chips,156,1.88,2.9328
-Tostitos,"Restaurante Tortilla Chips, Red & White",300,2.47,7.41
-Kettle,Loads Of All Dressed Flavour Rippled Potato Chips,200,1.68,3.36
-Tostitos,"Potato Chips, All Dressed",200,1.18,2.36
-No Name,Cheddar Cheese Flavour Potato Chips,156,1.88,2.9328
-Old Dutch,Organic Carnival Tortilla Chips,300,4.48,13.440000000000001
+Pringles,Sour Cream & Onion Flavour Potato Chips,156,1.88,1.205128205128205
+Miss Vickies,"Kettle Cooked Potato Chips, Sea Salt & Malt Vinegar",220,3.97,1.8045454545454545
+Kettle,"Kettle Chips, New York Cheddar",220,2.48,1.1272727272727272
+Que Pasa,Organic Carnival Tortilla Chips,300,3.98,1.3266666666666667
+Old Dutch,"Dutch Crunch Kettle Chips, Sea Salt & Malt Vinegar",200,3.28,1.6399999999999997
+Que Pasa,Unsalted Tortilla Chips,350,2.98,0.8514285714285714
+Old Dutch,Popcorn Twists,175,2.58,1.4742857142857142
+Lay's,"Potato Chips, Sea Salt & Pepper",255,2.47,0.9686274509803923
+Lay's,"Poppables Potato Chips, White Cheddar",141,2.47,1.75177304964539
+Lay's,"Potato Chips, Pizza",240,2.47,1.0291666666666668
+Old Dutch,"Restaurante Tortilla Chips, Original",300,3.28,1.0933333333333333
+Lay's,"Potato Chips, Sour Cream & Onion",255,2.47,0.9686274509803923
+Miss Vickies,"Kettle Cooked Potato Chips, Balsamic Vinegar & Sweet Onion",220,3.97,1.8045454545454545
+Old Dutch,"Restaurante Tortilla Chips, Deli Rounds",310,3.28,1.0580645161290323
+Bugles,"Corn Chips, Ranch",213,1.97,0.9248826291079811
+Doritos,"Tortilla Chips, Sweet Chilli Heat",400,4.58,1.145
+Calbee,"Snapea Crisps, Black Pepper",93,2.48,2.6666666666666665
+,"Krinkle Cut Sweet Potato Chips, Sea Salt",165,3.98,2.412121212121212
+Popchips,"Ridges Potato Chips, Cheddar Sour Cream",85,3.28,3.8588235294117643
+Miss Vickies,"Kettle Cooked Potato Chips, Original Recipe",300,4.58,1.5266666666666666
+No Name Club Pack,Cheese Twists Club Pack,700,3.98,0.5685714285714285
+Doritos,"Tortilla Chips, Nacho Cheese",255,3.18,1.2470588235294118
+Lay's,Wavy Original Chips,255,2.47,0.9686274509803923
+No Name,"Potato Crisp, Salt and Vinegar",142,1.28,0.9014084507042254
+Pringles,Jalapeno Flavour Potato Chips,156,1.88,1.205128205128205
+Tostitos,"Tortilla Chips, Restaurant style",480,4.58,0.9541666666666667
+Old Dutch,"Potato Chips, Salt & Vinegar",255,3.48,1.3647058823529412
+President's Choice,"White Corn Tortilla Chips, Restaurant Cut",320,2.98,0.9312499999999999
+Lay's,"Wavy Chips, Sour Cream & Cheese",240,2.47,1.0291666666666668
+Pringles,Pizza Flavour Potato Chips,156,1.88,1.205128205128205
+,Kropek Crackers Shrimp Flavoured 70 g,70,1.18,1.6857142857142855
+Doritos,"Tortilla Chips, Zesty Cheese",255,3.18,1.2470588235294118
+Lay's,"Potato Chips, Salt & Vinegar",255,2.47,0.9686274509803923
+Mamee,"Monster Noodle Snack, BBQ",300,3.88,1.2933333333333332
+Kettle,"Krinkle Cut Potato Chips, Sea Salt & Vinegar",397,4.98,1.2544080604534005
+Doritos,"Corn Chips, Sonic Sour",250,3.18,1.272
+Tostitos,"Tortilla Chips, Rounds",505,4.58,0.9069306930693068
+President's Choice,Thick Cut Aged Cheddar And Onion Flavour Rippled Potato Chips,200,1.68,0.84
+Pringles,Ketchup Potato Chips,156,1.88,1.205128205128205
+Tostitos,"Tortilla Chips, Multigrain",270,2.97,1.1
+,"Potato Chips, Sour Cream 'n Onion",220,3.27,1.4863636363636363
+Fresh Is Best Salsa & Co,Fresh is Best Salsa & Co. Tri-Flavour Corn Tortilla Chips,325,4.98,1.5323076923076924
+Pringles,Cheddar Cheese Flavour Potato Chips,156,1.88,1.205128205128205
+President's Choice,Rippled Potato Chips Loads of All Dressed Flavour Club Size,750,5.98,0.7973333333333334
+Rooster,Roasted Seaweed,15,0.98,6.533333333333332
+,"Potato Chips, Ketchup",150,1.98,1.32
+Kettle,"Krinkle Cut Potato Chips, Salted",397,4.98,1.2544080604534005
+President's Choice,Tortilla Bite Size Round Premium White Corn Tortilla Chips,350,2.98,0.8514285714285714
+Terra,Exotic Vegetable Chips Plantains Sea Salt,141,3.98,2.8226950354609928
+President's Choice,"Kettle Cooked Tortilla Chips, Sea Salt",368,3.98,1.0815217391304348
+No Name,Ripple Cut Potato Chips,200,1.18,0.59
+No Name,"Rings, Sour Cream & Onion",200,2.18,1.09
+Lay's,"Potato Chips, Chalet Sauce",255,2.47,0.9686274509803923
+Old Dutch,"Restaurante Tortilla Chips, Red & White",300,3.28,1.0933333333333333
+Kettle,"Krinkle Cut Potato Chips, Dill Pickle",220,2.48,1.1272727272727272
+,"Carrot Chips, Lightly Salted",150,2.98,1.9866666666666668
+Old Dutch,"Rip-L Potato Chips, Lightly Salted",255,3.48,1.3647058823529412
+Enjoy Life,"Plentils Lentil Chips, Margherita Pizza",113,3.98,3.5221238938053094
+Haldiram,Nagpur Chana Choor Indian Snacks,150,1.58,1.0533333333333335
+Old Dutch,Arriba Zasty Taco Flavour Tortilla Chips,245,3.28,1.3387755102040817
+,"Banana Chips, Spicy",341,3.28,0.9618768328445748
+No Name,"Potato Chips, Ketchup",200,1.18,0.59
+,"Potato Chips, All Dressed",220,3.27,1.4863636363636363
+,Simply Popped Microwave Pop Corn,510,3.98,0.7803921568627451
+,"Potato Chips, Regular",380,4.58,1.2052631578947368
+Old Dutch,Rip-L Chips,600,6.28,1.0466666666666669
+Orville,Gourmet Popcorn Simply Salted,492,4.49,0.9126016260162603
+President's Choice,Sea Salt And Malt Vinegar Flavour Kettle Cooked Potato Chips,220,1.68,0.7636363636363637
+President's Choice,Thick Cut Potato Chips Original Flavour,200,1.68,0.84
+Tostitos,"Tortilla Chips, Scoops!",215,2.97,1.3813953488372093
+Lay's,"Potato Chips, Classic",450,4.58,1.017777777777778
+,"Puffs Cheese Flavoured Snacks, Cheese",280,3.27,1.167857142857143
+Lay's,"Potato Chips, Classic",475,4.98,1.048421052631579
+Paqui,Paqui Very Verde Good Tortilla Chips,155,4.48,2.8903225806451616
+Baken-Ets,"Baken-Ets Pork Rinds, Traditional Smoked",70,1.98,2.8285714285714287
+Sensible Portions,Veggie Chips,142,3.48,2.450704225352113
+Paqui,"Paqui Tortilla Chips, Nacho Cheese",155,4.48,2.8903225806451616
+,Seasoned and Roasted Seaweed,120,9.48,7.9
+Mamee,"Monster Noodle Snack, Chicken",300,3.88,1.2933333333333332
+Doritos,"Tortilla Chips, Spicy Nacho",255,3.28,1.2862745098039217
+Lay's,"Potato Chips, Dill Pickle",255,2.47,0.9686274509803923
+The Good Bean,Sweet Cinnamon Chick Peas Snack,170,4.98,2.9294117647058826
+No Name,"Potato Chips, BBQ",750,4.98,0.6640000000000001
+President's Choice,Chickpea Tortilla Chips,320,2.48,0.775
+Doritos,"Tortilla Chips, Zesty Cheese",80,1.69,2.1125
+,Takis Fuego Chips,280,3.68,1.3142857142857143
+,"Potato Chips, Regular",220,3.27,1.4863636363636363
+Old Dutch,Chips,960,12.98,1.3520833333333335
+Miss Vickies,"Kettle Cooked Potato Chips, Variety",7776,6.98,0.08976337448559672
+No Name,"Potato Chips, All Dressed",200,1.18,0.59
+,"Potato Chips, Smokin BBQ",150,1.98,1.32
+President's Choice,"Tortilla Chips, Large Rounds",340,2.98,0.8764705882352942
+Nong Shim,Shrimp Chips,45,1.28,2.8444444444444446
+Miss Vickies,"Kettle Cooked Potato Chips, Jalapeño",220,3.97,1.8045454545454545
+President's Choice,Loads of Jalapeño Popper Flavour Rippled Potato Chips,200,1.68,0.84
+,"Puffs Cheese Flavoured Snacks, Cheese",425,4.58,1.0776470588235294
+Pringles,Mega Can Sour Cream & Onion Flavour,202,2.98,1.4752475247524752
+Old Dutch,Restaurante Multigrain Bites,290,3.28,1.1310344827586205
+Bugles,"Corn Snacks, Original",213,1.97,0.9248826291079811
+Kettle,"Potato Chips, Sea Salt",220,2.48,1.1272727272727272
+Doritos,"Tortilla Chips, Variety",504,6.98,1.384920634920635
+,"Potato Chips, Wild Onion & Yogurt",150,1.98,1.32
+Que Pasa,"Tortilla Chips, Thin & Crispy Sea Salt",300,3.98,1.3266666666666667
+,"Potato Chips, All Dressed",380,4.58,1.2052631578947368
+Sunchips,"Multigrain Snacks, French Onion",225,3.67,1.631111111111111
+Doritos,"Tortilla Chips, Nacho Cheese",400,4.58,1.145
+Lay's,"Potato Chips, Ketchup",255,2.47,0.9686274509803923
+Lay's,"Wavy Potato Chips, Ketchup",255,3.18,1.2470588235294118
+Old Dutch,"Dutch Crunch Kettle Chips, Original",200,3.28,1.6399999999999997
+Lay's,"Potato Chips, Classic",66,1.69,2.5606060606060606
+No Name,"Potato Crisps, BBQ",142,1.28,0.9014084507042254
+Popchips,"Ridges Potato Chips, Tangy BBQ",85,3.28,3.8588235294117643
+President's Choice,"Kettle Cooked Potato Chips, Original",220,1.68,0.7636363636363637
+Doritos,"Tortilla Chips, Sweet Chili Heat!",255,3.18,1.2470588235294118
+Sunchips,"Multigrain Snacks, Harvest Cheddar",225,3.67,1.631111111111111
+Munchies,"Snacks, Snack Mix Original",1100,7.28,0.6618181818181819
+The Good Bean,Sea Salt Chick Peas Snack,170,4.98,2.9294117647058826
+President's Choice,"Thick Cut Potato Chips, Sour Cream & Dill",200,1.68,0.84
+Terra,"Vegetable Chips, Mediterranean",170,3.98,2.3411764705882354
+President's Choice,Sweet & Heat Popcorn,220,2.48,1.1272727272727272
+Lay's,"Poppables Potato Chips, Sea Salt",141,2.47,1.75177304964539
+,Cheetos Snowflakes Snacks,180,3.27,1.8166666666666669
+Fortress,"Hoops Corn Snacks, Bar-B-Q",370,3.78,1.0216216216216216
+Lay's,"Potato Chips, Lightly Salted",255,2.47,0.9686274509803923
+Lay's,"Potato Chips, Smokey Bacon",255,3.18,1.2470588235294118
+Humpty Dumpty,Original Party Mix Snack XXXL,640,6.28,0.98125
+No Name,"Potato Chips, Regular",200,1.18,0.59
+Kettle,"Krinkle Cut Potato Chips, Salt & Pepper",220,2.48,1.1272727272727272
+No Name,"Potato Crisps, Regular",150,1.28,0.8533333333333334
+Lay's,"Potato Chips, Classic",255,2.47,0.9686274509803923
+Miss Vickies,"Kettle Cooked Potato Chips, Parmesan & Roasted Garlic",220,3.97,1.8045454545454545
+Doritos,"Tortilla Chips, Bold BBQ",255,3.18,1.2470588235294118
+Miss Vickies,"Kettle Cooked Potato Chips, Original Recipe",220,3.97,1.8045454545454545
+Kettle,"Chips, Avocado Chili Lime",170,2.48,1.4588235294117646
+President's Choice,Multigrain Premium Tortilla Chips,240,2.98,1.2416666666666667
+Pringles,Dill Pickle Flavour Potato Chips,156,1.88,1.205128205128205
+Pringles,Reduced Fat Original,139,1.88,1.3525179856115108
+Lay's,"Frito Classic Mix, 4 Flavour 18 bag - Variety pack",504,6.98,1.384920634920635
+Old Dutch,"Dutch Crunch Kettle Chips, Jalapeno & Cheddar",200,3.28,1.6399999999999997
+Pringles,Mega Can Original Flavour,194,2.98,1.536082474226804
+Miss Vickies,"Kettle Cooked Potato Chips, Applewood Smoked BBQ",220,3.97,1.8045454545454545
+Lay's,"Wavy Potato Chips, Sour Cream & Sriracha",240,3.18,1.3250000000000002
+,"Potato Chips, Cheese",160,1.98,1.2375
+Paqui,Haunted Ghost Pepper Tortilla Chips,155,4.48,2.8903225806451616
+President's Choice,Loads Of Barbecue Flavour Rippled Potato Chips,200,1.68,0.84
+No Name,"Potato Chips, Sour Cream & Onion",750,4.98,0.6640000000000001
+Lay's,"Wavy Potato Chips, Original",450,4.58,1.017777777777778
+Paldo,Seaweed Snack Almond Flavour,18,3.99,22.166666666666668
+Lay's,"Potato Chips, Bar-B-Q",255,2.47,0.9686274509803923
+Lay's,"Potato Chips, Grilled Cheese",240,2.47,1.0291666666666668
+Doritos,"Tortilla Chips, Cool Ranch",255,3.18,1.2470588235294118
+Six Fortune,Lobster Flavour Chips,160,3.97,2.48125
+Old Dutch,"Potato Chips, Sour Cream & Onion",255,3.48,1.3647058823529412
+Miss Vickies,"Kettle Cooked Potato Chips, Lime & Black Pepper",220,3.97,1.8045454545454545
+Enjoy Life,"Plentils Lentil Chips, Sea Salt",113,3.98,3.5221238938053094
+Jack n' Jill,"Jack'N Jill Piattos, Cheese",212,2.98,1.4056603773584906
+Old Dutch,"Tortilla Chips, Sea Salt & Hint of Lime",310,3.28,1.0580645161290323
+President's Choice,Smokin' Stampede Chips,200,1.88,0.9399999999999998
+Kettle,"Kettle Chips, Yogurt & Green Onion",220,2.48,1.1272727272727272
+,Potato Chips,150,1.98,1.32
+Pringles,Salt & Vinegar Flavour Potato Chips,156,1.88,1.205128205128205
+Old Dutch,"Potato Chips, Regular",220,2.88,1.309090909090909
+,Takis Explosion Chips,280,3.68,1.3142857142857143
+Que Pasa,Blue Corn Tortilla Chips,350,2.98,0.8514285714285714
+Que Pasa,Organic Vegan JalapeÃ±o & Lime Tortilla Chips,156,3.48,2.230769230769231
+,"Potato Chips, BBQ",160,1.98,1.2375
+Que Pasa,Organic Vegan Nacho Tortilla Chips,156,3.48,2.230769230769231
+Christie,"Bits & Bites, Cheddar ",175,2.27,1.2971428571428572
+Miss Vickies,"Kettle Cooked Potato Chips, Sea Salt & Malt Vinegar",66,1.48,2.242424242424242
+Pringles,Snack Stacks Original,228,5.98,2.6228070175438596
+Lay's,Wavy Lightly Salted Chips,255,2.47,0.9686274509803923
+Munchies,"Snacks, Snack Mix Original",450,4.58,1.017777777777778
+No Name,"Potato Crisps, Sour Cream and Onion",142,1.28,0.9014084507042254
+,Takis Fajitas Chips,280,3.68,1.3142857142857143
+Old Dutch,Arriba Nacho Cheese Flavour Tortilla Chips,245,3.28,1.3387755102040817
+Miss Vickies,"Kettle Cooked Potato Chips, Sea Salt & Malt Vinegar",300,4.58,1.5266666666666666
+Que Pasa,Organic Vegan Sweet & Spicy Tortilla Chips,156,3.48,2.230769230769231
+The Good Bean,Thai Coconut Chick Peas,170,4.98,2.9294117647058826
+,Blast O Butter Ultimate Theatre Style Butter Microwave Pop Corn,594,3.98,0.6700336700336701
+Ulker,Pizza Clip,150,1.38,0.9199999999999999
+,"Crunchy Cheese Flavoured Snacks, Flamin' Hot",310,3.27,1.0548387096774194
+Que Pasa,Salted Tortilla Chips,350,2.98,0.8514285714285714
+Kettle,"Kettle Chips, Jalapeno",220,2.48,1.1272727272727272
+No Name,Corn Chips,200,1.78,0.89
+Kettle,"Krinkle Cut Potato Chips, Salt & Fresh Ground Pepper",397,4.98,1.2544080604534005
+Terra,"Vegetable Chips, Sweet Potato",170,3.98,2.3411764705882354
+,"Potato Chips, Sour Cream 'n Bacon",220,3.27,1.4863636363636363
+Sunchips,"Multigrain Snacks, Garden Salsa",225,3.67,1.631111111111111
+Lay's,"Wavy Potato Chips, Bar-B-Q",255,3.18,1.2470588235294118
+Lay's,"Poppables Snacks, Honey BBQ",141,2.47,1.75177304964539
+Quality,Mamra Chikki,100,0.98,0.98
+Paqui,Wild Wild Ranch Tortilla Chips,155,4.48,2.8903225806451616
+Lay's,Wavy Salt Vinegar Chips,240,2.47,1.0291666666666668
+President's Choice,Applewood Smoked Bacon Flavour Kettle Cooked Potato Chips,220,1.68,0.7636363636363637
+President's Choice,Barbecue Baby Back Ribs Chips,200,1.88,0.9399999999999998
+Fritos,Variety Pack,1400,14.48,1.0342857142857143
+President's Choice,Hickory Smoke Flavour Roasted Almonds,200,4.48,2.24
+,Healthy Pop Butter Flavour Microwave Pop Corn,510,3.98,0.7803921568627451
+Hawkins,Cheezies,1120,8.88,0.7928571428571429
+Fritos,"Lay's Potato Chips, 4 Flavour 18 bag - Variety pack",504,6.98,1.384920634920635
+Terra,"Vegetable Chips, Original",170,3.98,2.3411764705882354
+President's Choice,Loads Of Ketchup Flavour Rippled Potato Chips,200,1.68,0.84
+Beanfields,Pico de Gallo Bean & Rice Chips,156,4.48,2.8717948717948723
+Tostitos,"Tortilla Chips, Multigrain Scoops!",205,2.97,1.4487804878048782
+,"Potato Chips, Rock Salt & Vinegar",150,1.98,1.32
+Nong Shim,Shrimp Cracker,75,1.28,1.7066666666666668
+Que Pasa,Red Corn Tortilla Chips,300,2.98,0.9933333333333334
+Kettle,"Potato Chips, Low Sodium",220,2.48,1.1272727272727272
+Hawkins,Cheezies,210,3.18,1.5142857142857145
+President's Choice,Caramelized Onion & Balsamic Vinegar Flavour Kettle Cooked Potato Chips,220,1.68,0.7636363636363637
+Doritos,"Tortilla Chips, Jalapeño & Cheddar",255,3.18,1.2470588235294118
+No Name,"Potato Chips, Sour Cream & Onion",200,1.18,0.59
+Kettle,"Kettle Chips, Sea Salt & Vinegar",220,2.48,1.1272727272727272
+Pringles,Mystery Flavour,156,1.88,1.205128205128205
+,"Kurkure Snacks, Masala Munch",115,0.98,0.8521739130434783
+President's Choice,Kettle Style Blue Corn Tortilla Chips Seasoned With Sea Salt,368,3.98,1.0815217391304348
+Old Dutch,"Potato Chips, BBQ",255,3.48,1.3647058823529412
+,"Chips, Tempura Shrimp",100,1.48,1.48
+Terra,Original Low Sodium,354,7.98,2.2542372881355934
+T&T,Korean Roasted Seaweed Laver,15,1.78,11.866666666666667
+Lay's,"Potato Chips, Taco",240,2.47,1.0291666666666668
+Miss Vickies,"Kettle Cooked Potato Chips, Sweet Chili & Sour Cream",220,3.97,1.8045454545454545
+Pringles,Original Potato Chips,148,1.88,1.2702702702702702
+President's Choice,Loads Of Sour Cream & Onion Rippled Potato Chips,200,1.68,0.84
+Lay's,BLT Chips,255,2.47,0.9686274509803923
+Tostitos,"Tortilla Chips, Low Sodium",295,2.97,1.0067796610169493
+,Drop'n Mad Beets,150,2.98,1.9866666666666668
+,"Parsnip Chips, Lightly Salted",150,2.98,1.9866666666666668
+Nong Shim,Onion Rings,50,1.28,2.56
+Beanfields,"Chips, Sea Salt",156,4.48,2.8717948717948723
+Lay's,Old Fashioned BBQ,255,2.97,1.1647058823529413
+No Name,Party Mix,320,2.98,0.9312499999999999
+Old Dutch,"Crunchys, Extreme Cheddar",290,3.28,1.1310344827586205
+Kettle,"Potato Chips, Honey Dijon",220,2.48,1.1272727272727272
+Old Dutch,"Potato Chips, BBQ",220,2.88,1.309090909090909
+Kettle,"Chips, Korean BBQ",220,2.24,1.0181818181818183
+PC  Club Pack,Kettle Chips,907,5.98,0.659316427783903
+Tostitos,"Tortilla Chips, Restaurant style",275,2.97,1.08
+Tostitos,"Tortilla Chips, Restaurant style",530,4.98,0.939622641509434
+Terra,Sweets & Beet,170,3.98,2.3411764705882354
+No Name Club Pack,Rippled Potato Chips,750,4.98,0.6640000000000001
+Lay's,"Wavy Potato Chips, Hickory BBQ",240,2.47,1.0291666666666668
+No Name,"Potato Chips, Dill Pickle",200,1.18,0.59
+,"Crunchy Cheese Flavoured Snacks, Cheese",310,3.27,1.0548387096774194
+Tostitos,"Tortilla Chips, Hint of Jalapeño",275,2.97,1.08
+Hawkins,Cheezies,420,6.18,1.4714285714285715
+No Name,"Tortilla Chips, Nacho Cheese",908,5.98,0.6585903083700442
+Pringles,Mega Can BBQ Flavour,202,2.98,1.4752475247524752
+President's Choice,"Kettle Cooked Potato Chips, Jalapeño",220,1.68,0.7636363636363637
+No Name,"Ripple Cut Potato Chips, Lightly Salted",200,1.18,0.59
+Bits & Bites,"Boy Bawang, Hot Garlic",100,0.98,0.98
+Old Dutch,"Potato Chips, Ketchup",220,2.88,1.309090909090909
+Old Dutch,Cheese Pleesers,265,3.28,1.2377358490566037
+Humpty Dumpty,"Party Mix, Cheesy",280,3.28,1.1714285714285713
+The Good Bean,Chili & Lime Chick Peas Snack,170,4.98,2.9294117647058826
+President's Choice,Loads Of All Dressed Flavour Rippled Potato Chips,200,1.68,0.84
+Jack n' Jill,"Chippy Corn Chips, Barbecue",200,1.97,0.985
+Old Dutch,"Rip-L Potato Chips, Original",255,3.48,1.3647058823529412
+No Name,"Potato Chips, Barbecue",200,1.18,0.59
+Miss Vickies,"Vickie's Kettle Cooked Potato Chips, Sweet Southern BBQ",220,3.97,1.8045454545454545
+Que Pasa,"Tortilla Chips, Thin & Crispy, Twist of Lime",300,3.98,1.3266666666666667
+President's Choice,Buffalo Wings And Blue Cheese Chips,200,1.88,0.9399999999999998
+Tostitos,"Tortilla Chips, Rounds",295,2.97,1.0067796610169493
+Lay's,"Wavy Potato Chips, Jalapeno Mac n' Cheese",255,3.17,1.2431372549019608
+Kettle,"Chips, Pepperoncini",220,2.48,1.1272727272727272
+No Name,"Tortilla Chips, Nacho Cheese",200,1.98,0.9899999999999999
+No Name,Crunchy Cheddar Snacks,200,1.98,0.9899999999999999
+Haldiram,Murukku,200,2.78,1.39
+Miss Vickies,"Kettle Cooked Potato Chips, Sour Cream & Caramelized Onion",220,3.97,1.8045454545454545
+No Name,"Tortilla Chips, Sweet Chili",200,1.98,0.9899999999999999
+Bugles,Nacho Cheese,213,1.97,0.9248826291079811
+Doritos,Ketchup Chips,230,3.18,1.382608695652174
+Lay's,"Potato Chips, PEI Scalloped Potatoes",255,2.47,0.9686274509803923
+Humpty Dumpty,Original Party Mix,280,3.28,1.1714285714285713
+Old Dutch,"Potato Chips, Ketchup",255,3.48,1.3647058823529412
+Christie,"Bits & Bites, Original",175,2.27,1.2971428571428572
+No Name,"Potato Chips, Salt & Vinegar",200,1.18,0.59
+Terra,Blue,170,3.98,2.3411764705882354
+Tostitos,"Tortilla Chips, Hint of Lime",275,2.97,1.08
+Beanfields,"Chips, Nacho",156,4.48,2.8717948717948723
+,"Crunchy Cheese Flavoured Snacks, Cheddar Jalapeño",310,3.27,1.0548387096774194

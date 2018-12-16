@@ -1,6 +1,12 @@
 # Notes
 
-# HTTP Calls
+# Reflection
+
+My ultimate goal was to create a script to pull live chip data and calculate unit prices, then let the user rate them, then plot the results to show the best value based on taste. This ended up being too much, for a number of reasons. The main one was scraping the grocery sites, which used AJAX and JS and iframes, was too annoying.
+
+So in the end I skipped the scraping and downloaded an extract instead.
+
+# HTTP Calls to Real Canadian Superstore
 
 data-ajax-url="/plp/RCSS001008010001?loadMore=true&sort=popularity&filters="
 
